@@ -40,7 +40,9 @@ The goal is to promote awareness of natural remedies while offering an engaging 
 
 ## 📽️ Demo
 
-🎥 Watch the full video demo here: [My linkedIn post](https://www.linkedin.com/posts/mkaifiqbal_webdevelopment-html-css-activity-7319250260717879296-N86d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2LwNMB3_94cHwFb2jpHJ3sXEXhVut65Cc)
+🎥 Watch the full video demo here:
+LinkedIn - [My linkedIn post](https://www.linkedin.com/posts/mkaifiqbal_webdevelopment-html-css-activity-7319250260717879296-N86d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2LwNMB3_94cHwFb2jpHJ3sXEXhVut65Cc)
+Instagram - [My instagram post](https://www.instagram.com/p/DIpB0CjzpLf/)
 
 ---
 
