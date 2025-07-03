@@ -70,10 +70,7 @@ You can use **phpMyAdmin** or **MySQL CLI** to create these tables and insert da
 Launch the project in your browser:
 
 http://localhost/ayush-herb/
-👨‍💻 Team
-This project was developed collaboratively under our GitHub organization.
-You can check the full team contributions and source code here:
-[🔗 GitHub Organization Repository](https://github.com/Kaif-templates/virtualHerbalGarden)
+
 
 🔖 Keywords
 Herbal Plants Medicinal Uses PHP Web App MySQL 3D View Gardening Tips
